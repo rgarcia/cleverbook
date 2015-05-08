@@ -21,7 +21,6 @@ $(document).ready(function() {
     var showCurrentPerson = function() {
       randomUsers = _.shuffle(users);
       if (recent.length > MAX_RECENT) recent.shift();
-      console.log(recent);
       while (recent.indexOf(randomUsers[0].name) > 0) {
         randomUsers.shift();
       }
