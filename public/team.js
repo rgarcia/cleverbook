@@ -8,8 +8,8 @@ $(document).ready(function() {
     var score = 0;
     var attempts = 0;
     var recent = [];
-    var NUM_CHOICES = 6;
-    var MAX_RECENT = 10;
+    var NUM_CHOICES = 5;
+    var MAX_RECENT = 15;
 
     var loadPeople = function() {
       $.getJSON("employees.json", function(data) {
