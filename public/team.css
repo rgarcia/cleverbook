@@ -1,0 +1,18 @@
+.container {
+  width: 940px;
+  font-family: ProximaNovaRgRegular,'Helvetica Neue',Arial,Helvetica,sans-serif;
+  .center-block();
+}
+
+.page-header {
+  background-color: #2e67ac;
+  color: #fff;
+}
+ul {
+  list-style-type:none;
+  padding: 0;
+}
+
+li {
+  margin: 5px 0;
+}

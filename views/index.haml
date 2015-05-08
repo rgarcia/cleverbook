@@ -1,0 +1,37 @@
+!!!
+%html
+  %head
+    %meta{:charset => "utf-8"}
+    %meta{:name => "viewport", :content => "width=device-width, initial-scale=1"}
+    %link{:rel => "stylesheet", :href => "/vendor/bootstrap/css/bootstrap.min.css"}
+    %link{:rel => "stylesheet", :href => "team.css"}
+    %script{:type => "text/javascript", :src  => "/vendor/jquery-2.1.4.min.js"}
+    %script{:type => "text/javascript", :src  => "/vendor/bootstrap/js/bootstrap.min.js"}
+    %script{:type => "text/javascript", :src  => "/vendor/underscore-min.js"}
+    %script{:type => "text/javascript", :src  => "/vendor/md5.min.js"}
+    %script{:type => "text/javascript", :src => 'team.js'}
+    %title Cleverbook
+
+    / [if lt IE 9]
+    %script{:src => "https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"}
+    %script{:src => "https://oss.maxcdn.com/respond/1.4.2/respond.min.js"}
+    / [endif]
+  %body
+    .container
+      .row
+        .col-md-12.page-header
+          %h1.text-center Cleverbook
+      .row
+        .col-md-4.text-center
+          %ul#name-choices
+        .col-md-4.text-center
+          #person
+        .col-md-4.text-center
+          %ul#role-choices
+      .row
+        .col-md-12
+          #fun-fact
+      .row
+        .col-md-12.text-center
+          %h1#score
+

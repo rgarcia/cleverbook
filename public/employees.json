@@ -1,0 +1,312 @@
+{ "users":[
+    {
+        "name": "Aaron Sokol",
+        "email": "Aaron.Sokol@clever.com",
+        "role": "Head of District Partnerships"
+    },
+    {
+        "name": "Aashay Desai",
+        "email": "aashay.desai@clever.com",
+        "role": "Developer Relations"
+    },
+    {
+        "name": "Abhinav Garg",
+        "email": "abhinav.garg@clever.com",
+        "role": "Engineer - IL"
+    },
+    {
+        "name": "Alex Zylman",
+        "email": "Alex.Zylman@clever.com",
+        "role": "Engineer - Data"
+    },
+    {
+        "name": "Alexander Soto",
+        "email": "alexander.soto@clever.com",
+        "role": "Engineer - API"
+    },
+    {
+        "name": "Amelie Zeng",
+        "email": "amelie.zeng@clever.com",
+        "role": "School Experience Advocate"
+    },
+    {
+        "name": "Ben Adida",
+        "email": "ben@clever.com",
+        "role": "VP Eng"
+    },
+    {
+        "name": "Benji Stein",
+        "email": "benji.stein@clever.com",
+        "role": "Engineer"
+    },
+    {
+        "name": "Brandon Gordon",
+        "email": "Brandon.Gordon@clever.com",
+        "role": "Account Manager"
+    },
+    {
+        "name": "Brett van Zuiden",
+        "email": "brett.vanzuiden@clever.com",
+        "role": "Product Manager"
+    },
+    {
+        "name": "Caitlin Haberberger",
+        "email": "Caitlin.Haberberger@clever.com",
+        "role": "Operations"
+    },
+    {
+        "name": "Carrie Abend",
+        "email": "Carrie.Abend@clever.com",
+        "role": "School Experience Advocate"
+    },
+    {
+        "name": "Cat Reading Kamireddy",
+        "email": "cat.kamireddy@clever.com",
+        "role": "Marketing"
+    },
+    {
+        "name": "Cate Autry",
+        "email": "cate.autry@clever.com",
+        "role": "Head of Inside Sales"
+    },
+    {
+        "name": "Christina Deogracias",
+        "email": "christina.deogracias@clever.com",
+        "role": "School Support Specialist "
+    },
+    {
+        "name": "Christina Toy",
+        "email": "christina.toy@clever.com",
+        "role": "Accounting Manager"
+    },
+    {
+        "name": "Colin Schimmelfing",
+        "email": "Colin.Schimmelfing@clever.com",
+        "role": "Engineer - Data"
+    },
+    {
+        "name": "Cortney Thorley",
+        "email": "Cortney.Thorley@clever.com",
+        "role": "Operations Manager"
+    },
+    {
+        "name": "Cosmo Wolfe",
+        "email": "Cosmo.Wolfe@clever.com",
+        "role": "Engineer - IL"
+    },
+    {
+        "name": "Cristin Quealy",
+        "email": "Cristin.Quealy@clever.com",
+        "role": "Head of School Experience"
+    },
+    {
+        "name": "Dan Carroll",
+        "email": "Dan.Carroll@clever.com",
+        "role": "Chief Product Officer"
+    },
+    {
+        "name": "Dan McCarthy",
+        "email": "Dan.McCarthy@clever.com",
+        "role": "Operations - Recruiting"
+    },
+    {
+        "name": "Daniel Fuentes",
+        "email": "daniel.fuentes@clever.com",
+        "role": "Engineer - Infra"
+    },
+    {
+        "name": "Daniel Sparks",
+        "email": "dan.sparks@clever.com",
+        "role": "Engineer - Data"
+    },
+    {
+        "name": "Dave Reed",
+        "email": "david.reed@clever.com",
+        "role": "District Partnerships"
+    },
+    {
+        "name": "Eleanor Dorfman",
+        "email": "Eleanor.Dorfman@clever.com",
+        "role": "Account Manager"
+    },
+    {
+        "name": "Erica Von Buelow",
+        "email": "Erica.VonBuelow@clever.com",
+        "role": "Engineer - Data"
+    },
+    {
+        "name": "Frankie Warren",
+        "email": "frankie.warren@clever.com",
+        "role": "Data Partnerships"
+    },
+    {
+        "name": "Jamila Amarshi",
+        "email": "Jamila.Amarshi@clever.com",
+        "role": "Head of Operations"
+    },
+    {
+        "name": "Jeffrey Nelson",
+        "email": "Jeff.Nelson@clever.com",
+        "role": "Engineer - IL"
+    },
+    {
+        "name": "Jenn Steidley",
+        "email": "jenn.steidley@clever.com",
+        "role": "Executive Assistant"
+    },
+    {
+        "name": "Jian Cheung",
+        "email": "jian.cheung@clever.com",
+        "role": "Engineer - Apps"
+    },
+    {
+        "name": "Jonah Kagan",
+        "email": "Jonah.Kagan@clever.com",
+        "role": "Engineer - API"
+    },
+    {
+        "name": "Katy Elkin",
+        "email": "Katy.Elkin@clever.com",
+        "role": "Business Development"
+    },
+    {
+        "name": "Kevin Shen",
+        "email": "kevin.shen@clever.com",
+        "role": "Engineer - Apps"
+    },
+    {
+        "name": "Kyle Vigen",
+        "email": "Kyle.Vigen@clever.com",
+        "role": "Engineer - API"
+    },
+    {
+        "name": "Matt Pasternack",
+        "email": "Matt.Pasternack@clever.com",
+        "role": "Head of Growth"
+    },
+    {
+        "name": "Maya Sussman",
+        "email": "maya.sussman@clever.com",
+        "role": "School Experience Advocate"
+    },
+    {
+        "name": "Megan Keir",
+        "email": "megan.keir@clever.com",
+        "role": "School Experience Advocate"
+    },
+    {
+        "name": "Michael Cai",
+        "email": "michael.cai@clever.com",
+        "role": "Product Manager"
+    },
+    {
+        "name": "Michael Graf",
+        "email": "mike.graf@gmail.com",
+        "role": "Engineer - Data"
+    },
+    {
+        "name": "Mikayla Welborn",
+        "email": "mikayla.welborn@clever.com",
+        "role": "School Experience Advocate"
+    },
+    {
+        "name": "Mohit Gupta",
+        "email": "Mohit.Gupta@clever.com",
+        "role": "Engineer - Infra"
+    },
+    {
+        "name": "Monica Simo",
+        "email": "monica.simo@clever.com",
+        "role": "Growth Team Intern"
+    },
+    {
+        "name": "Nathan Leiby",
+        "email": "Nathan.Leiby@clever.com",
+        "role": "Engineer - Infra"
+    },
+    {
+        "name": "Nic Woodyard",
+        "email": "nic.woodyard@clever.com",
+        "role": "Operations - Recruiting"
+    },
+    {
+        "name": "Nick Grandy",
+        "email": "Nick.Grandy@clever.com",
+        "role": "Product Manager"
+    },
+    {
+        "name": "Nikhil Pandit",
+        "email": "nikhil.pandit@clever.com",
+        "role": "Engineer"
+    },
+    {
+        "name": "Olivia Williams",
+        "email": "olivia.williams@clever.com",
+        "role": "Operations - Recruiting"
+    },
+    {
+        "name": "Pamela Martinez",
+        "email": "pamela.martinez@clever.com",
+        "role": "Engineer - IL"
+    },
+    {
+        "name": "Potluck Mittal",
+        "email": "potluck@clever.com",
+        "role": "Engineer"
+    },
+    {
+        "name": "Rafael Garcia",
+        "email": "Rafael.Garcia@clever.com",
+        "role": "Engineer - CTO"
+    },
+    {
+        "name": "Ron Chandler",
+        "email": "ron.chandler@clever.com",
+        "role": "District Partnerships Consultant"
+    },
+    {
+        "name": "Ryan Hartnett",
+        "email": "ryan.hartnett@clever.com",
+        "role": "District Partnerships"
+    },
+    {
+        "name": "Stephanie Chen",
+        "email": "stephanie.chen@clever.com",
+        "role": "Engineer - API"
+    },
+    {
+        "name": "Stephanie Lonn",
+        "email": "stephanie.lonn@clever.com",
+        "role": "Operations - Recruiting"
+    },
+    {
+        "name": "Taylor Singletary",
+        "email": "taylor.singletary@clever.com",
+        "role": "Developer Relations Manager"
+    },
+    {
+        "name": "Tim French",
+        "email": "tim.french@clever.com",
+        "role": "District Partnerships"
+    },
+    {
+        "name": "Tyler Bosmeny",
+        "email": "tyler.bosmeny@clever.com",
+        "role": "CEO"
+    },
+    {
+        "name": "Will Laufer",
+        "email": "Will.Laufer@clever.com",
+        "role": "Business Development"
+    },
+    {
+        "name": "Xavi Ramirez",
+        "email": "xavi.ramirez@clever.com",
+        "role": "Engineer"
+    },
+    {
+        "name": "Yifan Wu",
+        "email": "yifan.wu@clever.com",
+        "role": "Engineer"
+    }
+]}
