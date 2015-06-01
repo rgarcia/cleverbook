@@ -30,6 +30,11 @@
         "role": "School Experience Advocate"
     },
     {
+        "name": "Andrew Huang",
+        "email": "andrew.huang@clever.com",
+        "role": "Engineer"
+    },
+    {
         "name": "Ben Adida",
         "email": "ben@clever.com",
         "role": "VP Eng"
@@ -52,12 +57,12 @@
     {
         "name": "Caitlin Haberberger",
         "email": "Caitlin.Haberberger@clever.com",
-        "role": "Operations"
+        "role": "Finance "
     },
     {
         "name": "Carrie Abend",
         "email": "Carrie.Abend@clever.com",
-        "role": "School Experience Advocate"
+        "role": "Big District Support"
     },
     {
         "name": "Cat Reading Kamireddy",
@@ -117,12 +122,12 @@
     {
         "name": "Daniel Sparks",
         "email": "dan.sparks@clever.com",
-        "role": "Engineer - API"
+        "role": "Engineer - Data"
     },
     {
         "name": "Dave Reed",
         "email": "david.reed@clever.com",
-        "role": "District Partnerships"
+        "role": "Business Development"
     },
     {
         "name": "Eleanor Dorfman",
@@ -157,7 +162,7 @@
     {
         "name": "Jian Cheung",
         "email": "jian.cheung@clever.com",
-        "role": "Engineer - Apps"
+        "role": "Engineer - Data"
     },
     {
         "name": "Jonah Kagan",
@@ -172,7 +177,7 @@
     {
         "name": "Kevin Shen",
         "email": "kevin.shen@clever.com",
-        "role": "Engineer - Apps"
+        "role": "Engineer - Data"
     },
     {
         "name": "Kyle Vigen",
@@ -190,6 +195,11 @@
         "role": "School Experience Advocate"
     },
     {
+        "name": "Megan Devlin",
+        "email": "megan.devlin@clever.com",
+        "role": "School Support Specialist "
+    },
+    {
         "name": "Megan Keir",
         "email": "megan.keir@clever.com",
         "role": "School Experience Advocate"
@@ -202,7 +212,7 @@
     {
         "name": "Michael Graf",
         "email": "mike.graf@gmail.com",
-        "role": "Engineer - Data"
+        "role": "Computer systems analyst - Data"
     },
     {
         "name": "Mikayla Welborn",
@@ -237,7 +247,7 @@
     {
         "name": "Nikhil Pandit",
         "email": "nikhil.pandit@clever.com",
-        "role": "Engineer"
+        "role": "Engineer - Data"
     },
     {
         "name": "Olivia Williams",
@@ -262,7 +272,12 @@
     {
         "name": "Ron Chandler",
         "email": "ron.chandler@clever.com",
-        "role": "District Partnerships Consultant"
+        "role": "District Partnerships Contractor"
+    },
+    {
+        "name": "Ryan Endacott",
+        "email": "ryan.endacott@clever.com",
+        "role": "Engineer - Intern"
     },
     {
         "name": "Ryan Hartnett",
@@ -307,6 +322,16 @@
     {
         "name": "Yifan Wu",
         "email": "yifan.wu@clever.com",
-        "role": "Engineer"
+        "role": "Engineer - Infra"
+    },
+    {
+        "name": "Arsalan Sufi",
+        "email": "arsalan.sufi@clever.com",
+        "role": "Engineer - Intern"
+    },
+    {
+        "name": "Roniesha Copeland",
+        "email": "roniesha.copeland@clever.com",
+        "role": "District Partnerships"
     }
 ]}
