@@ -1,5 +1,4 @@
 { "users":[
-[
     {
         "name": "Aaron Sokol",
         "email": "Aaron.Sokol@clever.com",
@@ -345,5 +344,4 @@
         "email": "sam.fishman@clever.com",
         "role": "Engineer - Intern"
     }
-]
 ]}
