@@ -1,4 +1,5 @@
-{ "users":[
+{ "users":
+[
     {
         "name": "Aaron Sokol",
         "email": "Aaron.Sokol@clever.com",
@@ -145,6 +146,11 @@
         "role": "Account Manager"
     },
     {
+        "name": "Emily Chesbrough",
+        "email": "emily.chesbrough@clever.com",
+        "role": "District Partnerships Associate"
+    },
+    {
         "name": "Erica Von Buelow",
         "email": "Erica.VonBuelow@clever.com",
         "role": "Engineer - Schools"
@@ -168,6 +174,11 @@
         "name": "Jenn Steidley",
         "email": "jenn.steidley@clever.com",
         "role": "Executive Assistant"
+    },
+    {
+        "name": "Jenna James",
+        "email": "Jenna.james@clever.com",
+        "role": "Summer School Experience Coordinator"
     },
     {
         "name": "Jian Cheung",
@@ -208,6 +219,11 @@
         "name": "Kevin Shen",
         "email": "kevin.shen@clever.com",
         "role": "Engineer - Schools"
+    },
+    {
+        "name": "Kristine Welsh-Loveman",
+        "email": "kristine.welsh-loveman@clever.com",
+        "role": "School Experience Coordinator-School Experience"
     },
     {
         "name": "Kyle Vigen",
@@ -320,6 +336,11 @@
         "role": "District Partnerships"
     },
     {
+        "name": "Ryan Burns",
+        "email": "ryan.burns@clever.com",
+        "role": "Engineer"
+    },
+    {
         "name": "Ryan Endacott",
         "email": "ryan.endacott@clever.com",
         "role": "Engineer - Intern"
@@ -368,5 +389,26 @@
         "name": "Xavi Ramirez",
         "email": "xavi.ramirez@clever.com",
         "role": "Engineer - Infra"
+    },
+    {
+        "name": "Christopher Bradshaw",
+        "email": "christopher.bradshaw@clever.com",
+        "role": "Engineer"
+    },
+    {
+        "name": "Levi Clayton",
+        "email": "levi.clayton@clever.com",
+        "role": "XA"
+    },
+    {
+        "name": "Jacob Simon",
+        "email": "jacob@clever.com",
+        "role": "Engineer"
+    },
+    {
+        "name": "Angeli Agrawal",
+        "email": "angeli.agrawal@clever.com",
+        "role": "District Outreach"
     }
-]}
+]
+}

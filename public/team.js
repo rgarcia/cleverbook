@@ -9,7 +9,7 @@ $(document).ready(function() {
     var attempts = 0;
     var recent = [];
     var NUM_CHOICES = 5;
-    var MAX_RECENT = 15;
+    var MAX_RECENT = 35;
 
     var loadPeople = function() {
       $.getJSON("employees.json", function(data) {
