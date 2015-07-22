@@ -1,2 +1,0 @@
-https://devcenter.heroku.com/articles/getting-started-with-ruby-o
-http://stackoverflow.com/questions/9120972/looking-for-sinatra-ajax-example
