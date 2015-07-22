@@ -1,0 +1,17 @@
+{ "users":[
+    {
+        "name": "Lyra Belacqua",
+        "email": "lyra.belacqua@example.com",
+        "role": "Silvertongue"
+    },
+    {
+        "name": "Will Parry",
+        "email": "will.parry@example.com",
+        "role": "Subtle Knife Wielder"
+    },
+    {
+        "name": "Iorek Byrnison",
+        "email": "iorek.brynison@example.com",
+        "role": "armoured bear"
+    }
+]}
