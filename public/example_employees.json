@@ -12,6 +12,7 @@
     {
         "name": "Iorek Byrnison",
         "email": "iorek.brynison@example.com",
-        "role": "armoured bear"
+        "role": "armoured bear",
+        "picture": "http://this-person-doesnt-have-a-gravatar.jpg"
     }
 ]}

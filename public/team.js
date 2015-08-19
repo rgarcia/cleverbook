@@ -30,7 +30,11 @@ $(document).ready(function() {
       showRoles();
 
       var picture = new Image();
-      picture.src = 'http://www.gravatar.com/avatar/' + md5((person.email).trim().toLowerCase()) + '?s=256&d=404';
+      if person.hasOwnProperty('picture') {
+        picture.src = person.picture;
+      } else {
+        picture.src = 'http://www.gravatar.com/avatar/' + md5((person.email).trim().toLowerCase()) + '?s=256&d=404';
+      }
       picture.onload = function() {
         $('#person').empty();
         $(picture).appendTo('#person');
@@ -99,7 +103,7 @@ $(document).ready(function() {
       }
 
       updateScore();
-      
+
       if (nameCorrect && roleCorrect) {
         nameCorrect = false;
         roleCorrect = false;
@@ -118,5 +122,3 @@ $(document).ready(function() {
 
   nameGame.loadPeople();
 });
-
-
